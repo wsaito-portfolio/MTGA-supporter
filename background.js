@@ -1,13 +1,27 @@
 
-let color = '#3aa757';
+
 
 chrome.runtime.onInstalled.addListener(() => {
-  chrome.storage.sync.set({ color });
-  console.log('Default background color set to %cgreen', `color: ${color}`);
+  //カードリスト読み込み
+  fetch(chrome.runtime.getURL("/json/DMU_list.json"))
+  .then((response) => response.json())  .then((data) => {
+
+    var key,value;
+    console.log(data);
+    data.forEach(element => {
+      key = element["col_num"]+element["set"];
+      value = element["name_ja"];
+      chrome.storage.local.set( { [key] : [value]});
+      
+      element["col_num"]+element["col_num"]
+    });
+    
+  });
+
   
   var parent = chrome.contextMenus.create({
     id: 'parent',
-    title: 'Choose Background Color'
+    title: 'MTGA-Supporter'
   });
 });
 
@@ -16,10 +30,10 @@ chrome.contextMenus.onClicked.addListener(function(info,tab) {
     {
         message: "copyText",
         textToCopy: "some text" 
-    }, (response) => { 
+    }, (response) => {  
       let text;
-      //text = String(response).split('\r\n');
-      /*
+      text = String(response).split('\r\n');
+      
       if (String(text[1]).match(/[0-9]{1,2}.*\([a-zA-Z]{3}\)\ [0-9]{1,3}/).length>0){
       
         text = String(response).split('\r\n');  
@@ -41,15 +55,15 @@ chrome.contextMenus.onClicked.addListener(function(info,tab) {
         console.log(text2[0]);
         console.log(text3[0]);
         console.log(text[1]);
-*/
-      //}else if(String(text[1]).match(/[0-9]{1,2}.*/).length>0){
+
+      }else if(String(text[1]).match(/[0-9]{1,2}.*/).length>0){
 
 
-/*
+  
         console.log("test");
 
       }
-      */
-      console.log("test");
+      
+      console.log(response);
     })
 });
