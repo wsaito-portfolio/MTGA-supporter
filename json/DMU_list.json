@@ -1,0 +1,1688 @@
+[
+    {
+        "name_en": "Karn, Living Legacy",
+        "name_ja": "Karn, Living Legacy",
+        "set": "(DMU)",
+        "col_num": "1"
+    },
+    {
+        "name_en": "Anointed Peacekeeper",
+        "name_ja": "選定された平和の番人",
+        "set": "(DMU)",
+        "col_num": "2"
+    },
+    {
+        "name_en": "Archangel of Wrath",
+        "name_ja": "怒りの大天使",
+        "set": "(DMU)",
+        "col_num": "3"
+    },
+    {
+        "name_en": "Argivian Cavalier",
+        "name_ja": "アルガイヴの騎兵",
+        "set": "(DMU)",
+        "col_num": "4"
+    },
+    {
+        "name_en": "Argivian Phalanx",
+        "name_ja": "アルガイヴの密集軍",
+        "set": "(DMU)",
+        "col_num": "5"
+    },
+    {
+        "name_en": "Artillery Blast",
+        "name_ja": "弩弓破",
+        "set": "(DMU)",
+        "col_num": "6"
+    },
+    {
+        "name_en": "Benalish Faithbonder",
+        "name_ja": "Benalish Faithbonder",
+        "set": "(DMU)",
+        "col_num": "7"
+    },
+    {
+        "name_en": "Benalish Sleeper",
+        "name_ja": "ベナリアの潜伏工作員",
+        "set": "(DMU)",
+        "col_num": "8"
+    },
+    {
+        "name_en": "Captain's Call",
+        "name_ja": "隊長の号令",
+        "set": "(DMU)",
+        "col_num": "9"
+    },
+    {
+        "name_en": "Charismatic Vanguard",
+        "name_ja": "カリスマ溢れる先兵",
+        "set": "(DMU)",
+        "col_num": "10"
+    },
+    {
+        "name_en": "Citizen's Arrest",
+        "name_ja": "市民の拘束",
+        "set": "(DMU)",
+        "col_num": "11"
+    },
+    {
+        "name_en": "Cleaving Skyrider",
+        "name_ja": "肉裂きの空乗り",
+        "set": "(DMU)",
+        "col_num": "12"
+    },
+    {
+        "name_en": "Clockwork Drawbridge",
+        "name_ja": "機械仕掛けの跳ね橋",
+        "set": "(DMU)",
+        "col_num": "13"
+    },
+    {
+        "name_en": "Coalition Skyknight",
+        "name_ja": "連合の空騎士",
+        "set": "(DMU)",
+        "col_num": "14"
+    },
+    {
+        "name_en": "Danitha, Benalia's Hope",
+        "name_ja": "ベナリアの希望、ダニサ",
+        "set": "(DMU)",
+        "col_num": "15"
+    },
+    {
+        "name_en": "Defiler of Faith",
+        "name_ja": "信仰を穢すもの",
+        "set": "(DMU)",
+        "col_num": "16"
+    },
+    {
+        "name_en": "Destroy Evil",
+        "name_ja": "邪悪を打ち砕く",
+        "set": "(DMU)",
+        "col_num": "17"
+    },
+    {
+        "name_en": "Griffin Protector",
+        "name_ja": "庇護のグリフィン",
+        "set": "(DMU)",
+        "col_num": "18"
+    },
+    {
+        "name_en": "Guardian of New Benalia",
+        "name_ja": "新ベナリアの守護者",
+        "set": "(DMU)",
+        "col_num": "19"
+    },
+    {
+        "name_en": "Heroic Charge",
+        "name_ja": "英雄的突撃",
+        "set": "(DMU)",
+        "col_num": "20"
+    },
+    {
+        "name_en": "Join Forces",
+        "name_ja": "加勢",
+        "set": "(DMU)",
+        "col_num": "21"
+    },
+    {
+        "name_en": "Juniper Order Rootweaver",
+        "name_ja": "柏槙教団の樹根織り",
+        "set": "(DMU)",
+        "col_num": "22"
+    },
+    {
+        "name_en": "Knight of Dawn's Light",
+        "name_ja": "曙光の騎士",
+        "set": "(DMU)",
+        "col_num": "23"
+    },
+    {
+        "name_en": "Leyline Binding",
+        "name_ja": "力線の束縛",
+        "set": "(DMU)",
+        "col_num": "24"
+    },
+    {
+        "name_en": "Love Song of Night and Day",
+        "name_ja": "夜と昼の恋歌",
+        "set": "(DMU)",
+        "col_num": "25"
+    },
+    {
+        "name_en": "Mesa Cavalier",
+        "name_ja": "メサの騎兵",
+        "set": "(DMU)",
+        "col_num": "26"
+    },
+    {
+        "name_en": "Phyrexian Missionary",
+        "name_ja": "ファイレクシアの宣教師",
+        "set": "(DMU)",
+        "col_num": "27"
+    },
+    {
+        "name_en": "Prayer of Binding",
+        "name_ja": "束縛の祈り手",
+        "set": "(DMU)",
+        "col_num": "28"
+    },
+    {
+        "name_en": "Resolute Reinforcements",
+        "name_ja": "毅然たる援軍",
+        "set": "(DMU)",
+        "col_num": "29"
+    },
+    {
+        "name_en": "Runic Shot",
+        "name_ja": "ルーン撃ち",
+        "set": "(DMU)",
+        "col_num": "30"
+    },
+    {
+        "name_en": "Samite Herbalist",
+        "name_ja": "サマイトの薬草医",
+        "set": "(DMU)",
+        "col_num": "31"
+    },
+    {
+        "name_en": "Serra Paragon",
+        "name_ja": "セラの模範",
+        "set": "(DMU)",
+        "col_num": "32"
+    },
+    {
+        "name_en": "Shalai's Acolyte",
+        "name_ja": "シャライの侍者",
+        "set": "(DMU)",
+        "col_num": "33"
+    },
+    {
+        "name_en": "Stall for Time",
+        "name_ja": "時間稼ぎ",
+        "set": "(DMU)",
+        "col_num": "34"
+    },
+    {
+        "name_en": "Take Up the Shield",
+        "name_ja": "盾、構え",
+        "set": "(DMU)",
+        "col_num": "35"
+    },
+    {
+        "name_en": "Temporary Lockdown",
+        "name_ja": "一時的封鎖",
+        "set": "(DMU)",
+        "col_num": "36"
+    },
+    {
+        "name_en": "Urza Assembles the Titans",
+        "name_ja": "ウルザ、タイタンズを組織する",
+        "set": "(DMU)",
+        "col_num": "37"
+    },
+    {
+        "name_en": "Valiant Veteran",
+        "name_ja": "雄々しい古参兵",
+        "set": "(DMU)",
+        "col_num": "38"
+    },
+    {
+        "name_en": "Wingmantle Chaplain",
+        "name_ja": "翼套の司祭",
+        "set": "(DMU)",
+        "col_num": "39"
+    },
+    {
+        "name_en": "Academy Loremaster",
+        "name_ja": "アカデミーの伝承師",
+        "set": "(DMU)",
+        "col_num": "40"
+    },
+    {
+        "name_en": "Academy Wall",
+        "name_ja": "アカデミーの壁",
+        "set": "(DMU)",
+        "col_num": "41"
+    },
+    {
+        "name_en": "Aether Channeler",
+        "name_ja": "霊気の媒介者",
+        "set": "(DMU)",
+        "col_num": "42"
+    },
+    {
+        "name_en": "Battlewing Mystic",
+        "name_ja": "戦羽の神秘家",
+        "set": "(DMU)",
+        "col_num": "43"
+    },
+    {
+        "name_en": "Combat Research",
+        "name_ja": "戦闘研究",
+        "set": "(DMU)",
+        "col_num": "44"
+    },
+    {
+        "name_en": "Coral Colony",
+        "name_ja": "珊瑚の群棲",
+        "set": "(DMU)",
+        "col_num": "45"
+    },
+    {
+        "name_en": "Defiler of Dreams",
+        "name_ja": "夢を穢すもの",
+        "set": "(DMU)",
+        "col_num": "46"
+    },
+    {
+        "name_en": "Djinn of the Fountain",
+        "name_ja": "泉のジン",
+        "set": "(DMU)",
+        "col_num": "47"
+    },
+    {
+        "name_en": "Ertai's Scorn",
+        "name_ja": "アーテイの嘲笑",
+        "set": "(DMU)",
+        "col_num": "48"
+    },
+    {
+        "name_en": "Essence Scatter",
+        "name_ja": "本質の散乱",
+        "set": "(DMU)",
+        "col_num": "49"
+    },
+    {
+        "name_en": "Founding the Third Path",
+        "name_ja": "第三の道の創設",
+        "set": "(DMU)",
+        "col_num": "50"
+    },
+    {
+        "name_en": "Frostfist Strider",
+        "name_ja": "霜拳の徘徊者",
+        "set": "(DMU)",
+        "col_num": "51"
+    },
+    {
+        "name_en": "Haughty Djinn",
+        "name_ja": "傲慢なジン",
+        "set": "(DMU)",
+        "col_num": "52"
+    },
+    {
+        "name_en": "Haunting Figment",
+        "name_ja": "消えない想像体",
+        "set": "(DMU)",
+        "col_num": "53"
+    },
+    {
+        "name_en": "Impede Momentum",
+        "name_ja": "勢いを挫く",
+        "set": "(DMU)",
+        "col_num": "54"
+    },
+    {
+        "name_en": "Impulse",
+        "name_ja": "衝動",
+        "set": "(DMU)",
+        "col_num": "55"
+    },
+    {
+        "name_en": "Joint Exploration",
+        "name_ja": "連携探索",
+        "set": "(DMU)",
+        "col_num": "56"
+    },
+    {
+        "name_en": "Micromancer",
+        "name_ja": "微小術師",
+        "set": "(DMU)",
+        "col_num": "57"
+    },
+    {
+        "name_en": "Negate",
+        "name_ja": "否認",
+        "set": "(DMU)",
+        "col_num": "58"
+    },
+    {
+        "name_en": "The Phasing of Zhalfir",
+        "name_ja": "ザルファーのフェイジング",
+        "set": "(DMU)",
+        "col_num": "59"
+    },
+    {
+        "name_en": "Phyrexian Espionage",
+        "name_ja": "ファイレクシア流諜報術",
+        "set": "(DMU)",
+        "col_num": "60"
+    },
+    {
+        "name_en": "Pixie Illusionist",
+        "name_ja": "ピクシーの幻術師",
+        "set": "(DMU)",
+        "col_num": "61"
+    },
+    {
+        "name_en": "Protect the Negotiators",
+        "name_ja": "交渉団の保護",
+        "set": "(DMU)",
+        "col_num": "62"
+    },
+    {
+        "name_en": "Rona's Vortex",
+        "name_ja": "ローナの渦",
+        "set": "(DMU)",
+        "col_num": "63"
+    },
+    {
+        "name_en": "Shore Up",
+        "name_ja": "下支え",
+        "set": "(DMU)",
+        "col_num": "64"
+    },
+    {
+        "name_en": "Silver Scrutiny",
+        "name_ja": "銀の精査",
+        "set": "(DMU)",
+        "col_num": "65"
+    },
+    {
+        "name_en": "Soaring Drake",
+        "name_ja": "飛翔するドレイク",
+        "set": "(DMU)",
+        "col_num": "66"
+    },
+    {
+        "name_en": "Sphinx of Clear Skies",
+        "name_ja": "晴天のスフィンクス",
+        "set": "(DMU)",
+        "col_num": "67"
+    },
+    {
+        "name_en": "Talas Lookout",
+        "name_ja": "タラスの見張り",
+        "set": "(DMU)",
+        "col_num": "68"
+    },
+    {
+        "name_en": "Tidepool Turtle",
+        "name_ja": "潮溜まりの亀",
+        "set": "(DMU)",
+        "col_num": "69"
+    },
+    {
+        "name_en": "Timely Interference",
+        "name_ja": "機を見た干渉",
+        "set": "(DMU)",
+        "col_num": "70"
+    },
+    {
+        "name_en": "Tolarian Geyser",
+        "name_ja": "トレイリアの噴出",
+        "set": "(DMU)",
+        "col_num": "71"
+    },
+    {
+        "name_en": "Tolarian Terror",
+        "name_ja": "トレイリアの恐怖",
+        "set": "(DMU)",
+        "col_num": "72"
+    },
+    {
+        "name_en": "Vesuvan Duplimancy",
+        "name_ja": "ヴェズーヴァの複製術",
+        "set": "(DMU)",
+        "col_num": "73"
+    },
+    {
+        "name_en": "Voda Sea Scavenger",
+        "name_ja": "ヴォーダ海のあさり屋",
+        "set": "(DMU)",
+        "col_num": "74"
+    },
+    {
+        "name_en": "Vodalian Hexcatcher",
+        "name_ja": "Vodalian Hexcatcher",
+        "set": "(DMU)",
+        "col_num": "75"
+    },
+    {
+        "name_en": "Vodalian Mindsinger",
+        "name_ja": "ヴォーデイリアの精神詠い",
+        "set": "(DMU)",
+        "col_num": "76"
+    },
+    {
+        "name_en": "Volshe Tideturner",
+        "name_ja": "Volshe Tideturner",
+        "set": "(DMU)",
+        "col_num": "77"
+    },
+    {
+        "name_en": "Aggressive Sabotage",
+        "name_ja": "強引な妨害",
+        "set": "(DMU)",
+        "col_num": "78"
+    },
+    {
+        "name_en": "Balduvian Atrocity",
+        "name_ja": "バルデュヴィアの非道",
+        "set": "(DMU)",
+        "col_num": "79"
+    },
+    {
+        "name_en": "Battle-Rage Blessing",
+        "name_ja": "激しい闘いの祝福",
+        "set": "(DMU)",
+        "col_num": "80"
+    },
+    {
+        "name_en": "Battlefly Swarm",
+        "name_ja": "戦闘バエの群れ",
+        "set": "(DMU)",
+        "col_num": "81"
+    },
+    {
+        "name_en": "Blight Pile",
+        "name_ja": "荒廃の塊",
+        "set": "(DMU)",
+        "col_num": "82"
+    },
+    {
+        "name_en": "Bone Splinters",
+        "name_ja": "骨の粉砕",
+        "set": "(DMU)",
+        "col_num": "83"
+    },
+    {
+        "name_en": "Braids, Arisen Nightmare",
+        "name_ja": "甦りし悪夢、ブレイズ",
+        "set": "(DMU)",
+        "col_num": "84"
+    },
+    {
+        "name_en": "Braids's Frightful Return",
+        "name_ja": "ブレイズの恐るべき復活",
+        "set": "(DMU)",
+        "col_num": "85"
+    },
+    {
+        "name_en": "Choking Miasma",
+        "name_ja": "締めつける瘴気",
+        "set": "(DMU)",
+        "col_num": "86"
+    },
+    {
+        "name_en": "The Cruelty of Gix",
+        "name_ja": "ギックスの残虐",
+        "set": "(DMU)",
+        "col_num": "87"
+    },
+    {
+        "name_en": "Cult Conscript",
+        "name_ja": "教団の徴集兵",
+        "set": "(DMU)",
+        "col_num": "88"
+    },
+    {
+        "name_en": "Cut Down",
+        "name_ja": "切り崩し",
+        "set": "(DMU)",
+        "col_num": "89"
+    },
+    {
+        "name_en": "Defiler of Flesh",
+        "name_ja": "肉を穢すもの",
+        "set": "(DMU)",
+        "col_num": "90"
+    },
+    {
+        "name_en": "Drag to the Bottom",
+        "name_ja": "底への引き込み",
+        "set": "(DMU)",
+        "col_num": "91"
+    },
+    {
+        "name_en": "Eerie Soultender",
+        "name_ja": "不気味な魂の守護者",
+        "set": "(DMU)",
+        "col_num": "92"
+    },
+    {
+        "name_en": "Evolved Sleeper",
+        "name_ja": "進化した潜伏工作員",
+        "set": "(DMU)",
+        "col_num": "93"
+    },
+    {
+        "name_en": "Extinguish the Light",
+        "name_ja": "光の消滅",
+        "set": "(DMU)",
+        "col_num": "94"
+    },
+    {
+        "name_en": "Gibbering Barricade",
+        "name_ja": "囈語のバリケード",
+        "set": "(DMU)",
+        "col_num": "95"
+    },
+    {
+        "name_en": "Knight of Dusk's Shadow",
+        "name_ja": "暮影の騎士",
+        "set": "(DMU)",
+        "col_num": "96"
+    },
+    {
+        "name_en": "Liliana of the Veil",
+        "name_ja": "ヴェールのリリアナ",
+        "set": "(DMU)",
+        "col_num": "97"
+    },
+    {
+        "name_en": "Monstrous War-Leech",
+        "name_ja": "怪物的戦ヒル",
+        "set": "(DMU)",
+        "col_num": "98"
+    },
+    {
+        "name_en": "Phyrexian Rager",
+        "name_ja": "ファイレクシアの憤怒鬼",
+        "set": "(DMU)",
+        "col_num": "99"
+    },
+    {
+        "name_en": "Phyrexian Vivisector",
+        "name_ja": "ファイレクシアの生体解剖者",
+        "set": "(DMU)",
+        "col_num": "100"
+    },
+    {
+        "name_en": "Phyrexian Warhorse",
+        "name_ja": "ファイレクシアの軍馬",
+        "set": "(DMU)",
+        "col_num": "101"
+    },
+    {
+        "name_en": "Pilfer",
+        "name_ja": "窃取",
+        "set": "(DMU)",
+        "col_num": "102"
+    },
+    {
+        "name_en": "The Raven Man",
+        "name_ja": "鴉の男",
+        "set": "(DMU)",
+        "col_num": "103"
+    },
+    {
+        "name_en": "Sengir Connoisseur",
+        "name_ja": "センギアの鑑定者",
+        "set": "(DMU)",
+        "col_num": "104"
+    },
+    {
+        "name_en": "Shadow Prophecy",
+        "name_ja": "影の予言",
+        "set": "(DMU)",
+        "col_num": "105"
+    },
+    {
+        "name_en": "Shadow-Rite Priest",
+        "name_ja": "影の儀式の司祭",
+        "set": "(DMU)",
+        "col_num": "106"
+    },
+    {
+        "name_en": "Sheoldred, the Apocalypse",
+        "name_ja": "黙示録、シェオルドレッド",
+        "set": "(DMU)",
+        "col_num": "107"
+    },
+    {
+        "name_en": "Sheoldred's Restoration",
+        "name_ja": "シェオルドレッドの修復術",
+        "set": "(DMU)",
+        "col_num": "108"
+    },
+    {
+        "name_en": "Splatter Goblin",
+        "name_ja": "跳ね散らすゴブリン",
+        "set": "(DMU)",
+        "col_num": "109"
+    },
+    {
+        "name_en": "Stronghold Arena",
+        "name_ja": "要塞の闘技場",
+        "set": "(DMU)",
+        "col_num": "110"
+    },
+    {
+        "name_en": "Tattered Apparition",
+        "name_ja": "ぼろぼろの亡霊",
+        "set": "(DMU)",
+        "col_num": "111"
+    },
+    {
+        "name_en": "Toxic Abomination",
+        "name_ja": "有毒の嫌悪者",
+        "set": "(DMU)",
+        "col_num": "112"
+    },
+    {
+        "name_en": "Tribute to Urborg",
+        "name_ja": "アーボーグへの貢納",
+        "set": "(DMU)",
+        "col_num": "113"
+    },
+    {
+        "name_en": "Urborg Repossession",
+        "name_ja": "アーボーグの奪還",
+        "set": "(DMU)",
+        "col_num": "114"
+    },
+    {
+        "name_en": "Writhing Necromass",
+        "name_ja": "のたうつ分解者",
+        "set": "(DMU)",
+        "col_num": "115"
+    },
+    {
+        "name_en": "Balduvian Berserker",
+        "name_ja": "バルデュヴィアの狂戦士",
+        "set": "(DMU)",
+        "col_num": "116"
+    },
+    {
+        "name_en": "Chaotic Transformation",
+        "name_ja": "混沌性変異",
+        "set": "(DMU)",
+        "col_num": "117"
+    },
+    {
+        "name_en": "Coalition Warbrute",
+        "name_ja": "連合の戦暴者",
+        "set": "(DMU)",
+        "col_num": "118"
+    },
+    {
+        "name_en": "Defiler of Instinct",
+        "name_ja": "本能を穢すもの",
+        "set": "(DMU)",
+        "col_num": "119"
+    },
+    {
+        "name_en": "Dragon Whelp",
+        "name_ja": "チビ・ドラゴン",
+        "set": "(DMU)",
+        "col_num": "120"
+    },
+    {
+        "name_en": "The Elder Dragon War",
+        "name_ja": "巨竜戦争",
+        "set": "(DMU)",
+        "col_num": "121"
+    },
+    {
+        "name_en": "Electrostatic Infantry",
+        "name_ja": "静電式歩兵",
+        "set": "(DMU)",
+        "col_num": "122"
+    },
+    {
+        "name_en": "Fires of Victory",
+        "name_ja": "勝利の炎",
+        "set": "(DMU)",
+        "col_num": "123"
+    },
+    {
+        "name_en": "Flowstone Infusion",
+        "name_ja": "流動石の注入",
+        "set": "(DMU)",
+        "col_num": "124"
+    },
+    {
+        "name_en": "Flowstone Kavu",
+        "name_ja": "流動石のカヴー",
+        "set": "(DMU)",
+        "col_num": "125"
+    },
+    {
+        "name_en": "Furious Bellow",
+        "name_ja": "猛然たる怒声",
+        "set": "(DMU)",
+        "col_num": "126"
+    },
+    {
+        "name_en": "Ghitu Amplifier",
+        "name_ja": "ギトゥの増幅士",
+        "set": "(DMU)",
+        "col_num": "127"
+    },
+    {
+        "name_en": "Goblin Picker",
+        "name_ja": "ゴブリンのがらくた拾い",
+        "set": "(DMU)",
+        "col_num": "128"
+    },
+    {
+        "name_en": "Hammerhand",
+        "name_ja": "槌手",
+        "set": "(DMU)",
+        "col_num": "129"
+    },
+    {
+        "name_en": "Hurler Cyclops",
+        "name_ja": "投げ手のサイクロプス",
+        "set": "(DMU)",
+        "col_num": "130"
+    },
+    {
+        "name_en": "Hurloon Battle Hymn",
+        "name_ja": "ハールーンの戦賛歌",
+        "set": "(DMU)",
+        "col_num": "131"
+    },
+    {
+        "name_en": "In Thrall to the Pit",
+        "name_ja": "奈落のとりこ",
+        "set": "(DMU)",
+        "col_num": "132"
+    },
+    {
+        "name_en": "Jaya, Fiery Negotiator",
+        "name_ja": "焦熱の交渉人、ヤヤ",
+        "set": "(DMU)",
+        "col_num": "133"
+    },
+    {
+        "name_en": "Jaya's Firenado",
+        "name_ja": "ヤヤの火災旋風",
+        "set": "(DMU)",
+        "col_num": "134"
+    },
+    {
+        "name_en": "Keldon Flamesage",
+        "name_ja": "ケルドの炎賢者",
+        "set": "(DMU)",
+        "col_num": "135"
+    },
+    {
+        "name_en": "Keldon Strike Team",
+        "name_ja": "ケルドの急襲隊",
+        "set": "(DMU)",
+        "col_num": "136"
+    },
+    {
+        "name_en": "Lightning Strike",
+        "name_ja": "稲妻の一撃",
+        "set": "(DMU)",
+        "col_num": "137"
+    },
+    {
+        "name_en": "Meria's Outrider",
+        "name_ja": "メリアの先導",
+        "set": "(DMU)",
+        "col_num": "138"
+    },
+    {
+        "name_en": "Molten Monstrosity",
+        "name_ja": "Molten Monstrosity",
+        "set": "(DMU)",
+        "col_num": "139"
+    },
+    {
+        "name_en": "Phoenix Chick",
+        "name_ja": "フェニックスの雛",
+        "set": "(DMU)",
+        "col_num": "140"
+    },
+    {
+        "name_en": "Radha's Firebrand",
+        "name_ja": "ラーダの扇動者",
+        "set": "(DMU)",
+        "col_num": "141"
+    },
+    {
+        "name_en": "Rundvelt Hordemaster",
+        "name_ja": "ランドヴェルトの大群率い",
+        "set": "(DMU)",
+        "col_num": "142"
+    },
+    {
+        "name_en": "Shivan Devastator",
+        "name_ja": "シヴの壊滅者",
+        "set": "(DMU)",
+        "col_num": "143"
+    },
+    {
+        "name_en": "Smash to Dust",
+        "name_ja": "塵と化す",
+        "set": "(DMU)",
+        "col_num": "144"
+    },
+    {
+        "name_en": "Sprouting Goblin",
+        "name_ja": "芽吹くゴブリン",
+        "set": "(DMU)",
+        "col_num": "145"
+    },
+    {
+        "name_en": "Squee, Dubious Monarch",
+        "name_ja": "怪しげな統治者、スクイー",
+        "set": "(DMU)",
+        "col_num": "146"
+    },
+    {
+        "name_en": "Temporal Firestorm",
+        "name_ja": "時の火炎嵐",
+        "set": "(DMU)",
+        "col_num": "147"
+    },
+    {
+        "name_en": "Thrill of Possibility",
+        "name_ja": "胸躍る可能性",
+        "set": "(DMU)",
+        "col_num": "148"
+    },
+    {
+        "name_en": "Twinferno",
+        "name_ja": "双業火",
+        "set": "(DMU)",
+        "col_num": "149"
+    },
+    {
+        "name_en": "Viashino Branchrider",
+        "name_ja": "ヴィーアシーノの枝乗り",
+        "set": "(DMU)",
+        "col_num": "150"
+    },
+    {
+        "name_en": "Warhost's Frenzy",
+        "name_ja": "戦元の熱狂",
+        "set": "(DMU)",
+        "col_num": "151"
+    },
+    {
+        "name_en": "Yavimaya Steelcrusher",
+        "name_ja": "ヤヴィマヤの鋼潰し",
+        "set": "(DMU)",
+        "col_num": "152"
+    },
+    {
+        "name_en": "Yotia Declares War",
+        "name_ja": "ヨーティアの宣戦布告",
+        "set": "(DMU)",
+        "col_num": "153"
+    },
+    {
+        "name_en": "Barkweave Crusher",
+        "name_ja": "樹皮織りの破壊者",
+        "set": "(DMU)",
+        "col_num": "154"
+    },
+    {
+        "name_en": "Bite Down",
+        "name_ja": "噛み締め",
+        "set": "(DMU)",
+        "col_num": "155"
+    },
+    {
+        "name_en": "Bog Badger",
+        "name_ja": "沼アナグマ",
+        "set": "(DMU)",
+        "col_num": "156"
+    },
+    {
+        "name_en": "Broken Wings",
+        "name_ja": "壊れた翼",
+        "set": "(DMU)",
+        "col_num": "157"
+    },
+    {
+        "name_en": "Colossal Growth",
+        "name_ja": "壮大な成長",
+        "set": "(DMU)",
+        "col_num": "158"
+    },
+    {
+        "name_en": "Deathbloom Gardener",
+        "name_ja": "Deathbloom Gardener",
+        "set": "(DMU)",
+        "col_num": "159"
+    },
+    {
+        "name_en": "Defiler of Vigor",
+        "name_ja": "活力を穢すもの",
+        "set": "(DMU)",
+        "col_num": "160"
+    },
+    {
+        "name_en": "Elfhame Wurm",
+        "name_ja": "エルフェイムのワーム",
+        "set": "(DMU)",
+        "col_num": "161"
+    },
+    {
+        "name_en": "Elvish Hydromancer",
+        "name_ja": "エルフの水流術師",
+        "set": "(DMU)",
+        "col_num": "162"
+    },
+    {
+        "name_en": "Floriferous Vinewall",
+        "name_ja": "花咲く蔦壁",
+        "set": "(DMU)",
+        "col_num": "163"
+    },
+    {
+        "name_en": "Gaea's Might",
+        "name_ja": "ガイアの力",
+        "set": "(DMU)",
+        "col_num": "164"
+    },
+    {
+        "name_en": "Herd Migration",
+        "name_ja": "群れの渡り",
+        "set": "(DMU)",
+        "col_num": "165"
+    },
+    {
+        "name_en": "Hexbane Tortoise",
+        "name_ja": "呪詛消しの",
+        "set": "(DMU)",
+        "col_num": "166"
+    },
+    {
+        "name_en": "Leaf-Crowned Visionary",
+        "name_ja": "葉冠の幻想家",
+        "set": "(DMU)",
+        "col_num": "167"
+    },
+    {
+        "name_en": "Linebreaker Baloth",
+        "name_ja": "戦線破りのベイロス",
+        "set": "(DMU)",
+        "col_num": "168"
+    },
+    {
+        "name_en": "Llanowar Greenwidow",
+        "name_ja": "ラノワールの緑後家蜘蛛",
+        "set": "(DMU)",
+        "col_num": "169"
+    },
+    {
+        "name_en": "Llanowar Loamspeaker",
+        "name_ja": "ラノワールの壌土語り",
+        "set": "(DMU)",
+        "col_num": "170"
+    },
+    {
+        "name_en": "Llanowar Stalker",
+        "name_ja": "ラノワールの追跡者",
+        "set": "(DMU)",
+        "col_num": "171"
+    },
+    {
+        "name_en": "Magnigoth Sentry",
+        "name_ja": "マグニゴスの歩哨",
+        "set": "(DMU)",
+        "col_num": "172"
+    },
+    {
+        "name_en": "Mossbeard Ancient",
+        "name_ja": "古き苔髭",
+        "set": "(DMU)",
+        "col_num": "173"
+    },
+    {
+        "name_en": "Nishoba Brawler",
+        "name_ja": "ニショーバの喧嘩屋",
+        "set": "(DMU)",
+        "col_num": "174"
+    },
+    {
+        "name_en": "Quirion Beastcaller",
+        "name_ja": "クウィリーオンの獣呼び",
+        "set": "(DMU)",
+        "col_num": "175"
+    },
+    {
+        "name_en": "Scout the Wilderness",
+        "name_ja": "Scout the Wilderness",
+        "set": "(DMU)",
+        "col_num": "176"
+    },
+    {
+        "name_en": "Silverback Elder",
+        "name_ja": "シルバーバックの古老",
+        "set": "(DMU)",
+        "col_num": "177"
+    },
+    {
+        "name_en": "Slimefoot's Survey",
+        "name_ja": "スライムフットの調査",
+        "set": "(DMU)",
+        "col_num": "178"
+    },
+    {
+        "name_en": "Snarespinner",
+        "name_ja": "罠紡ぎ",
+        "set": "(DMU)",
+        "col_num": "179"
+    },
+    {
+        "name_en": "Strength of the Coalition",
+        "name_ja": "連合の力",
+        "set": "(DMU)",
+        "col_num": "180"
+    },
+    {
+        "name_en": "Sunbathing Rootwalla",
+        "name_ja": "日光浴するルートワラ",
+        "set": "(DMU)",
+        "col_num": "181"
+    },
+    {
+        "name_en": "Tail Swipe",
+        "name_ja": "尾の強打",
+        "set": "(DMU)",
+        "col_num": "182"
+    },
+    {
+        "name_en": "Tear Asunder",
+        "name_ja": "Tear Asunder",
+        "set": "(DMU)",
+        "col_num": "183"
+    },
+    {
+        "name_en": "Territorial Maro",
+        "name_ja": "属地のマロー",
+        "set": "(DMU)",
+        "col_num": "184"
+    },
+    {
+        "name_en": "Threats Undetected",
+        "name_ja": "未発見の脅威",
+        "set": "(DMU)",
+        "col_num": "185"
+    },
+    {
+        "name_en": "Urborg Lhurgoyf",
+        "name_ja": "アーボーグのルアゴイフ",
+        "set": "(DMU)",
+        "col_num": "186"
+    },
+    {
+        "name_en": "Vineshaper Prodigy",
+        "name_ja": "蔦形成師の神童",
+        "set": "(DMU)",
+        "col_num": "187"
+    },
+    {
+        "name_en": "The Weatherseed Treaty",
+        "name_ja": "ウェザーシード盟約",
+        "set": "(DMU)",
+        "col_num": "188"
+    },
+    {
+        "name_en": "The World Spell",
+        "name_ja": "世界呪文",
+        "set": "(DMU)",
+        "col_num": "189"
+    },
+    {
+        "name_en": "Yavimaya Iconoclast",
+        "name_ja": "ヤヴィマヤの偶像破壊者",
+        "set": "(DMU)",
+        "col_num": "190"
+    },
+    {
+        "name_en": "Yavimaya Sojourner",
+        "name_ja": "ヤヴィマヤの滞留者",
+        "set": "(DMU)",
+        "col_num": "191"
+    },
+    {
+        "name_en": "Ajani, Sleeper Agent",
+        "name_ja": "Ajani, Sleeper Agent",
+        "set": "(DMU)",
+        "col_num": "192"
+    },
+    {
+        "name_en": "Aron, Benalia's Ruin",
+        "name_ja": "ベナリアの堕落者、アロン",
+        "set": "(DMU)",
+        "col_num": "193"
+    },
+    {
+        "name_en": "Astor, Bearer of Blades",
+        "name_ja": "刃を持つ者、アスター",
+        "set": "(DMU)",
+        "col_num": "194"
+    },
+    {
+        "name_en": "Baird, Argivian Recruiter",
+        "name_ja": "アルガイヴの徴募人、ベイルド",
+        "set": "(DMU)",
+        "col_num": "195"
+    },
+    {
+        "name_en": "Balmor, Battlemage Captain",
+        "name_ja": "戦闘魔道士の隊長、バルモア",
+        "set": "(DMU)",
+        "col_num": "196"
+    },
+    {
+        "name_en": "Bortuk Bonerattle",
+        "name_ja": "ガリ骨のボータック",
+        "set": "(DMU)",
+        "col_num": "197"
+    },
+    {
+        "name_en": "Elas il-Kor, Sadistic Pilgrim",
+        "name_ja": "残忍な巡礼者、コー追われのエラス",
+        "set": "(DMU)",
+        "col_num": "198"
+    },
+    {
+        "name_en": "Ertai Resurrected",
+        "name_ja": "復活したアーテイ",
+        "set": "(DMU)",
+        "col_num": "199"
+    },
+    {
+        "name_en": "Garna, Bloodfist of Keld",
+        "name_ja": "ケルドの血拳、ガルナ",
+        "set": "(DMU)",
+        "col_num": "200"
+    },
+    {
+        "name_en": "Ivy, Gleeful Spellthief",
+        "name_ja": "陽気な呪文盗み、アイヴィー",
+        "set": "(DMU)",
+        "col_num": "201"
+    },
+    {
+        "name_en": "Jhoira, Ageless Innovator",
+        "name_ja": "老いざる革新者、ジョイラ",
+        "set": "(DMU)",
+        "col_num": "202"
+    },
+    {
+        "name_en": "Jodah, the Unifier",
+        "name_ja": "統べるもの、ジョダー",
+        "set": "(DMU)",
+        "col_num": "203"
+    },
+    {
+        "name_en": "King Darien XLVIII",
+        "name_ja": "国王ダリアン四十八世",
+        "set": "(DMU)",
+        "col_num": "204"
+    },
+    {
+        "name_en": "Lagomos, Hand of Hatred",
+        "name_ja": "憎悪の手、ラゴモス",
+        "set": "(DMU)",
+        "col_num": "205"
+    },
+    {
+        "name_en": "Meria, Scholar of Antiquity",
+        "name_ja": "古代学者、メリア",
+        "set": "(DMU)",
+        "col_num": "206"
+    },
+    {
+        "name_en": "Nael, Avizoa Aeronaut",
+        "name_ja": "エイヴィーゾアの空士、ナエル",
+        "set": "(DMU)",
+        "col_num": "207"
+    },
+    {
+        "name_en": "Najal, the Storm Runner",
+        "name_ja": "嵐の走者、ナジャル",
+        "set": "(DMU)",
+        "col_num": "208"
+    },
+    {
+        "name_en": "Nemata, Primeval Warden",
+        "name_ja": "太古の番人、ネマタ",
+        "set": "(DMU)",
+        "col_num": "209"
+    },
+    {
+        "name_en": "Queen Allenal of Ruadach",
+        "name_ja": "ルアダッハの女王オーリナル",
+        "set": "(DMU)",
+        "col_num": "210"
+    },
+    {
+        "name_en": "Radha, Coalition Warlord",
+        "name_ja": "連合の大将軍、ラーダ",
+        "set": "(DMU)",
+        "col_num": "211"
+    },
+    {
+        "name_en": "Raff, Weatherlight Stalwart",
+        "name_ja": "ウェザーライトの重鎮、ラフ",
+        "set": "(DMU)",
+        "col_num": "212"
+    },
+    {
+        "name_en": "Ratadrabik of Urborg",
+        "name_ja": "アーボーグのラタドラビック",
+        "set": "(DMU)",
+        "col_num": "213"
+    },
+    {
+        "name_en": "Rith, Liberated Primeval",
+        "name_ja": "解放されし太古、リース",
+        "set": "(DMU)",
+        "col_num": "214"
+    },
+    {
+        "name_en": "Rivaz of the Claw",
+        "name_ja": "爪のライヴァズ",
+        "set": "(DMU)",
+        "col_num": "215"
+    },
+    {
+        "name_en": "Rona, Sheoldred's Faithful",
+        "name_ja": "シェオルドレッドの心酔者、ローナ",
+        "set": "(DMU)",
+        "col_num": "216"
+    },
+    {
+        "name_en": "Rulik Mons, Warren Chief",
+        "name_ja": "巣穴の長、ルリク・モンス",
+        "set": "(DMU)",
+        "col_num": "217"
+    },
+    {
+        "name_en": "Shanna, Purifying Blade",
+        "name_ja": "浄化の刃、シャナ",
+        "set": "(DMU)",
+        "col_num": "218"
+    },
+    {
+        "name_en": "Sol'Kanar the Tainted",
+        "name_ja": "穢れたもの、ソルカナー",
+        "set": "(DMU)",
+        "col_num": "219"
+    },
+    {
+        "name_en": "Soul of Windgrace",
+        "name_ja": "ウィンドグレイスの魂",
+        "set": "(DMU)",
+        "col_num": "220"
+    },
+    {
+        "name_en": "Stenn, Paranoid Partisan",
+        "name_ja": "偏執的な援護者、ステン",
+        "set": "(DMU)",
+        "col_num": "221"
+    },
+    {
+        "name_en": "Tatyova, Steward of Tides",
+        "name_ja": "潮に仕えるもの、タトヨヴァ",
+        "set": "(DMU)",
+        "col_num": "222"
+    },
+    {
+        "name_en": "Tori D'Avenant, Fury Rider",
+        "name_ja": "憤怒の乗り手、アヴナントのトーリ",
+        "set": "(DMU)",
+        "col_num": "223"
+    },
+    {
+        "name_en": "Tura Kennerüd, Skyknight",
+        "name_ja": "空騎士、トゥーラ・ケネルッド",
+        "set": "(DMU)",
+        "col_num": "224"
+    },
+    {
+        "name_en": "Uurg, Spawn of Turg",
+        "name_ja": "トゥーグの落とし子、ウゥーグ",
+        "set": "(DMU)",
+        "col_num": "225"
+    },
+    {
+        "name_en": "Vohar, Vodalian Desecrator",
+        "name_ja": "ヴォーデイリアの冒涜者、ヴォハー",
+        "set": "(DMU)",
+        "col_num": "226"
+    },
+    {
+        "name_en": "Zar Ojanen, Scion of Efrava",
+        "name_ja": "エフラヴァの末裔、ザー・オジャネン",
+        "set": "(DMU)",
+        "col_num": "227"
+    },
+    {
+        "name_en": "Zur, Eternal Schemer",
+        "name_ja": "永遠の策謀家、ズアー",
+        "set": "(DMU)",
+        "col_num": "228"
+    },
+    {
+        "name_en": "Automatic Librarian",
+        "name_ja": "自動司書",
+        "set": "(DMU)",
+        "col_num": "229"
+    },
+    {
+        "name_en": "Golden Argosy",
+        "name_ja": "金色の大帆船",
+        "set": "(DMU)",
+        "col_num": "230"
+    },
+    {
+        "name_en": "Hero's Heirloom",
+        "name_ja": "英雄の家宝",
+        "set": "(DMU)",
+        "col_num": "231"
+    },
+    {
+        "name_en": "Inscribed Tablet",
+        "name_ja": "刻まれたタブレット",
+        "set": "(DMU)",
+        "col_num": "232"
+    },
+    {
+        "name_en": "Jodah's Codex",
+        "name_ja": "ジョダーの写本",
+        "set": "(DMU)",
+        "col_num": "233"
+    },
+    {
+        "name_en": "Karn's Sylex",
+        "name_ja": "カーンの酒杯",
+        "set": "(DMU)",
+        "col_num": "234"
+    },
+    {
+        "name_en": "Meteorite",
+        "name_ja": "隕石",
+        "set": "(DMU)",
+        "col_num": "235"
+    },
+    {
+        "name_en": "Relic of Legends",
+        "name_ja": "伝説の秘宝",
+        "set": "(DMU)",
+        "col_num": "236"
+    },
+    {
+        "name_en": "Salvaged Manaworker",
+        "name_ja": "発掘されたマナ労働機",
+        "set": "(DMU)",
+        "col_num": "237"
+    },
+    {
+        "name_en": "Shield-Wall Sentinel",
+        "name_ja": "盾壁の歩哨",
+        "set": "(DMU)",
+        "col_num": "238"
+    },
+    {
+        "name_en": "Timeless Lotus",
+        "name_ja": "永久の水蓮",
+        "set": "(DMU)",
+        "col_num": "239"
+    },
+    {
+        "name_en": "Vanquisher's Axe",
+        "name_ja": "勝者の斧",
+        "set": "(DMU)",
+        "col_num": "240"
+    },
+    {
+        "name_en": "Walking Bulwark",
+        "name_ja": "歩く防壁",
+        "set": "(DMU)",
+        "col_num": "241"
+    },
+    {
+        "name_en": "Weatherlight Compleated",
+        "name_ja": "完成化したウェザーライト",
+        "set": "(DMU)",
+        "col_num": "242"
+    },
+    {
+        "name_en": "Adarkar Wastes",
+        "name_ja": "アダーカー荒原",
+        "set": "(DMU)",
+        "col_num": "243"
+    },
+    {
+        "name_en": "Caves of Koilos",
+        "name_ja": "コイロスの洞窟",
+        "set": "(DMU)",
+        "col_num": "244"
+    },
+    {
+        "name_en": "Contaminated Aquifer",
+        "name_ja": "汚染された帯水層",
+        "set": "(DMU)",
+        "col_num": "245"
+    },
+    {
+        "name_en": "Crystal Grotto",
+        "name_ja": "水晶の岩屋",
+        "set": "(DMU)",
+        "col_num": "246"
+    },
+    {
+        "name_en": "Geothermal Bog",
+        "name_ja": "地熱の沼",
+        "set": "(DMU)",
+        "col_num": "247"
+    },
+    {
+        "name_en": "Haunted Mire",
+        "name_ja": "憑依されたぬかるみ",
+        "set": "(DMU)",
+        "col_num": "248"
+    },
+    {
+        "name_en": "Idyllic Beachfront",
+        "name_ja": "理想的な浜方",
+        "set": "(DMU)",
+        "col_num": "249"
+    },
+    {
+        "name_en": "Karplusan Forest",
+        "name_ja": "カープルーザンの森",
+        "set": "(DMU)",
+        "col_num": "250"
+    },
+    {
+        "name_en": "Molten Tributary",
+        "name_ja": "溶鉄の支流",
+        "set": "(DMU)",
+        "col_num": "251"
+    },
+    {
+        "name_en": "Plaza of Heroes",
+        "name_ja": "英雄の公有地",
+        "set": "(DMU)",
+        "col_num": "252"
+    },
+    {
+        "name_en": "Radiant Grove",
+        "name_ja": "光輝の木立ち",
+        "set": "(DMU)",
+        "col_num": "253"
+    },
+    {
+        "name_en": "Sacred Peaks",
+        "name_ja": "聖なる峰",
+        "set": "(DMU)",
+        "col_num": "254"
+    },
+    {
+        "name_en": "Shivan Reef",
+        "name_ja": "シヴの浅瀬",
+        "set": "(DMU)",
+        "col_num": "255"
+    },
+    {
+        "name_en": "Sulfurous Springs",
+        "name_ja": "硫黄泉",
+        "set": "(DMU)",
+        "col_num": "256"
+    },
+    {
+        "name_en": "Sunlit Marsh",
+        "name_ja": "日向の湿地",
+        "set": "(DMU)",
+        "col_num": "257"
+    },
+    {
+        "name_en": "Tangled Islet",
+        "name_ja": "絡みつく島嶼域",
+        "set": "(DMU)",
+        "col_num": "258"
+    },
+    {
+        "name_en": "Thran Portal",
+        "name_ja": "スランの門",
+        "set": "(DMU)",
+        "col_num": "259"
+    },
+    {
+        "name_en": "Wooded Ridgeline",
+        "name_ja": "樹木茂る尾根",
+        "set": "(DMU)",
+        "col_num": "260"
+    },
+    {
+        "name_en": "Yavimaya Coast",
+        "name_ja": "ヤヴィマヤの沿岸",
+        "set": "(DMU)",
+        "col_num": "261"
+    },
+    {
+        "name_en": "Plains",
+        "name_ja": "平地",
+        "set": "(DMU)",
+        "col_num": "262"
+    },
+    {
+        "name_en": "Plains",
+        "name_ja": "平地",
+        "set": "(DMU)",
+        "col_num": "263"
+    },
+    {
+        "name_en": "Plains",
+        "name_ja": "平地",
+        "set": "(DMU)",
+        "col_num": "264"
+    },
+    {
+        "name_en": "Island",
+        "name_ja": "島",
+        "set": "(DMU)",
+        "col_num": "265"
+    },
+    {
+        "name_en": "Island",
+        "name_ja": "島",
+        "set": "(DMU)",
+        "col_num": "266"
+    },
+    {
+        "name_en": "Island",
+        "name_ja": "島",
+        "set": "(DMU)",
+        "col_num": "267"
+    },
+    {
+        "name_en": "Swamp",
+        "name_ja": "沼",
+        "set": "(DMU)",
+        "col_num": "268"
+    },
+    {
+        "name_en": "Swamp",
+        "name_ja": "沼",
+        "set": "(DMU)",
+        "col_num": "269"
+    },
+    {
+        "name_en": "Swamp",
+        "name_ja": "沼",
+        "set": "(DMU)",
+        "col_num": "270"
+    },
+    {
+        "name_en": "Mountain",
+        "name_ja": "山",
+        "set": "(DMU)",
+        "col_num": "271"
+    },
+    {
+        "name_en": "Mountain",
+        "name_ja": "山",
+        "set": "(DMU)",
+        "col_num": "272"
+    },
+    {
+        "name_en": "Mountain",
+        "name_ja": "山",
+        "set": "(DMU)",
+        "col_num": "273"
+    },
+    {
+        "name_en": "Forest",
+        "name_ja": "森",
+        "set": "(DMU)",
+        "col_num": "274"
+    },
+    {
+        "name_en": "Forest",
+        "name_ja": "森",
+        "set": "(DMU)",
+        "col_num": "275"
+    },
+    {
+        "name_en": "Forest",
+        "name_ja": "森",
+        "set": "(DMU)",
+        "col_num": "276"
+    },
+    {
+        "name_en": "Plains",
+        "name_ja": "平地",
+        "set": "(DMU)",
+        "col_num": "277"
+    },
+    {
+        "name_en": "Island",
+        "name_ja": "島",
+        "set": "(DMU)",
+        "col_num": "278"
+    },
+    {
+        "name_en": "Swamp",
+        "name_ja": "沼",
+        "set": "(DMU)",
+        "col_num": "279"
+    },
+    {
+        "name_en": "Mountain",
+        "name_ja": "山",
+        "set": "(DMU)",
+        "col_num": "280"
+    },
+    {
+        "name_en": "Forest",
+        "name_ja": "森",
+        "set": "(DMU)",
+        "col_num": "281"
+    }
+]
